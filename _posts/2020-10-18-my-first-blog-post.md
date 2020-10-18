@@ -1,4 +1,10 @@
- Cheese
+
+ ---
+title: "Cheese"
+date: 2020-10-18
+---
+ 
+
 In the pantry the dear dense cheeses, Cheddars and harsh
 Lancashires; Gorgonzola with its magnanimous manner;
 the clipped speech of Roquefort; and a head of Stilton
